@@ -1,0 +1,21 @@
+.column-taxonomy-product-brand {
+  width: 10%;
+}
+
+#fulfillment_status {
+  /*font-weight: bold;*/
+}
+
+.warn {
+  color: orange;
+  font-weight: bold;
+}
+
+.success {
+  color: green;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
